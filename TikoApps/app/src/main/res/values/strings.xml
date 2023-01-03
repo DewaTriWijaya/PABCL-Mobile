@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">TikoApps</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+
+    <string name="nav_header_title">Tiko Apps</string>
+    <string name="nav_header_subtitle">tiko.apps@unikom.ac.id</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_about">About</string>
+
+    <string name="detail_products">Detail Products</string>
+    <string name="brand">Brand</string>
+    <string name="isi_brand">L\'Oreal Paris</string>
+    <string name="category">Category</string>
+    <string name="isi_category">skincare</string>
+    <string name="stock">Stock</string>
+    <string name="isi_stock">101</string>
+    <string name="isi_title">iPhone 9</string>
+    <string name="isi_price">$4.22</string>
+    <string name="rating">Rating</string>
+    <string name="isi_rating">4.69</string>
+    <string name="description_products">Description Products</string>
+    <string name="isi_deskripsi">L\'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid</string>
+    <string name="line">|</string>
+
+    <string name="logo_image_thumbnail">Logo image thumbnail</string>
+    <string name="btn_favorite">Button Favorite</string>
+    <string name="img_rating">Image Rating</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="biodata">Biodata</string>
+    <string name="name">Name</string>
+    <string name="_name">Dewa Tri Wijaya</string>
+    <string name="github">Github</string>
+    <string name="_github">https://github.com/DewaTriWijaya</string>
+    <string name="linked">Linked</string>
+    <string name="_linked">https://www.linkedin.com/in/dewa-tri-wijaya-539761201/</string>
+    <string name="email">Email</string>
+    <string name="_email">dewatwc@gmail.com</string>
+    <string name="nim">NIM</string>
+    <string name="_10122144">10122144</string>
+    <string name="email_unikom">Email Unikom</string>
+    <string name="dewa_10122144_mahasiswa_unikom_ac_id">dewa.10122144@mahasiswa.unikom.ac.id</string>
+    <string name="jurusan_dan_kelas">Jurusan Dan Kelas</string>
+    <string name="informatika_if_4_2022">INFORMATIKA IF-4/2022</string>
+
+</resources>
